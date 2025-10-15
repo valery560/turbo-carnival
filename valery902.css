@@ -1,0 +1,17 @@
+body{
+    background: rgb(6, 114, 114);
+}
+section{ 
+    background-color: rgb(142, 100, 182);
+    border-radius:  5rem;
+    padding: 3%;
+}
+#perAcademic{
+    background: rgb(161, 143, 110);
+}
+#Perlab{
+    background: rgb(172, 91, 104);
+}
+#datPer{
+    background-color: rgb(68, 10, 10);
+}
